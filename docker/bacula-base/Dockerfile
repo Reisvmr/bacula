@@ -1,4 +1,4 @@
-FROM centos:8.2.2004
+FROM centos:latest
 
 MAINTAINER Eduardo Fraga <eduardo.fraga@fametec.com.br>
 
